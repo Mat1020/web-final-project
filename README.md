@@ -1,2 +1,2 @@
 # Web-Final-Project
-My final web project for Computer Science class.
+My final web project for Computer Science 2025-2026 class.
