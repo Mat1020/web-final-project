@@ -4,7 +4,9 @@ These are my final website projects for both my _Intro to Computer Science_ of 2
 As of now, I'm just at my first S1 (semester 1) project; it will eventually get better, or my GitHub repository structure gets better. I'm sharing my code with everyone because it includes basic concepts of HTML & CSS that I belive are important, which means that it's good practice to look at them.
 
 ## S1 for Intro to Computer Science
+For this website, we needed to:
 
+So, I created a website that was meant for people to get to know Weezer; _WeezerFan_ is the website name.
 ## S2 for Intro to Computer Science
 ## S1 for AP Computer Science
 ## S2 for AP Computer Science
