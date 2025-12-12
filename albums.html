@@ -5,65 +5,26 @@
     <link rel="icon" href="Images/weezer-logo-favicon.png" type="image/png">
     <title>Albums | WeezerFan</title>
 
-    <link rel="stylesheet" href="Styles/albums.css">
+    <link rel="stylesheet" href="Styles/style.css">
+    <link rel="stylesheet" href="Styles/nav.css">
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Silkscreen&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Belgrano=swap" rel="stylesheet">
   </head>
-  <style>
-    /* Navbar */
-    .navbar * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    }
-
-    .navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 20px;
-    background-color: #f4f4f4;
-    border: 2px solid #ddd;
-    border-radius: 10px;
-    }
-
-    .navbar-title {
-    font-size: 24px;
-    font-weight: bold;
-    font-family: 'Silkscreen', sans-serif;
-    color: #333;
-    }
-
-    .navbar-links {
-    display: flex;
-    gap: 15px;
-    }
-
-    .navbar-links a {
-    text-decoration: none;
-    color: #007bff;
-    font-size: 18px;
-    padding: 5px 10px;
-    border-radius: 5px;
-    }
-
-    .navbar-links a:hover {
-    background-color: #e6e6e6;
-    }
-  </style>
   <body>
-    <!--Website navigation starts here-->
+    <!-- Website navigation starts here -->
     <div class="navbar">
-        <div class="navbar-title">WeezerFan</div>
-        <div class="navbar-links">
-            <nav>
-                <br><a href="index.html">Home</a>
-                <a href="albums.html"><font color="#ff0000"><u>Albums</u></font></a>
-                <a href="story.html">Story</a>
-            </nav>
-        </div>
+    <div class="navbar-title">WeezerFan</div>
+    <div class="navbar-links">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="albums.html" class="active-link">Albums</a></li>
+                <li><a href="story.html">Story</a></li>
+            </ul>
+        </nav>
       </div>
-    <!--Website navigation ends here-->
+    </div>
+    <!-- Website navigation ends here -->
     <h1 class="press-start">Sidekicked</h1>
     
     <p class="belgrano">In this book, we're on the perspective of Andrew Bean.</p>
