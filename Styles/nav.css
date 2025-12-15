@@ -9,7 +9,7 @@
 .navbar {
     list-style-type: none;
     overflow: hidden;
-    background-color: #25E0E6;
+    background-color: #24AFFF;
     display: flex;
     font-family: 'Belgrano', sans-serif;
     align-items: center;
@@ -36,9 +36,9 @@
 }
 
 .navbar-links li a:hover {
-    background-color: #1FC0C4;
+    background-color: #147BBA;
 }
 
 .active-link {
-    background-color: #17258F;
+    background-color: #0B598A;
 }
