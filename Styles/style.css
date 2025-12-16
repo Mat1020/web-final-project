@@ -1,12 +1,13 @@
 body {
   background-color: #A1D2ED;
-  text-align: center;
   padding: 20px;
   font-family: Arial, sans-serif;
 }
 
 .press-start {
   font-family: 'Press Start 2P', sans-serif;
+  text-decoration: underline;
+  text-align: center;
   color: #000000;
 }
 
@@ -15,8 +16,21 @@ body {
   color: #000000;
 }
 
-.belgrano {
+.p {
   font-family: 'Belgrano', sans-serif;
   color: #000000;
   font-size: 20px;
+}
+
+.basis {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+  border-style: solid;
+  align-items: center;
+  border-radius: 10px;
 }
